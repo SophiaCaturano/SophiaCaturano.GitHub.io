@@ -3,17 +3,17 @@
     <head>
         <title> HMTL Basics </title> 
         <meta charset="utf-8">
-        <img src="myBanner.jpg"> 
     </head>
     <body>
         <table>
             <thead>
                 <tr>
-                    <th> <a href="index2.html"> <img src="home.png"> </a> </th>
-                    <th> <a href="javascript.html"> <img src="javascript.png"> </a> </th>
-                    <th> <a href="about.html"> <img src="about.png"> </a> </th> 
-                 </tr>
+                    <th> <a href="index2.html"> <img src="csc106_homebutton.png"> </a> </th>
+                    <th> <a href="javascript.html"> <img src="csc106_javascriptbutton.png"> </a> </th>
+                    <th> <a href="about.html"> <img src="csc106_aboutmebutton.png"> </a> </th> 
+                        </tr>
+    <img src="csc106_banner.jpg">
         <h1> Welcome to Sophia's Programming Portfolio! </h1>
         <p> This Website is a look at my programming portfolio. </p>
     </body>
-</html>
+</html> 
