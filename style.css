@@ -12,3 +12,11 @@ body {
   width:300px;
   float: left;
 }
+#hockey {
+  width: 300px;
+  float:left;
+}
+#beach {
+  width:300px;
+  float: right;
+}
