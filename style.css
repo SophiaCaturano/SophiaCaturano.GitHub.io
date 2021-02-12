@@ -4,3 +4,11 @@ body {
 #nav-table {
   width:1024px;
 }
+#me {
+  width:300px;
+  float:right;
+}
+#me2 {
+  width:300px;
+  float: left;
+}
